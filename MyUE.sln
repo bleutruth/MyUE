@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Engine", "Engine", "{DA9ED8AA-0779-4DCD-8973-4290916C58AD}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UE4", "Intermediate\ProjectFiles\UE4.vcxproj", "{6B87F85D-8631-4F13-9537-50AFC5213E3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		BuiltWithUnrealBuildTool|Win32 = BuiltWithUnrealBuildTool|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B87F85D-8631-4F13-9537-50AFC5213E3F}.BuiltWithUnrealBuildTool|Win32.ActiveCfg = BuiltWithUnrealBuildTool|Win32
+		{6B87F85D-8631-4F13-9537-50AFC5213E3F}.BuiltWithUnrealBuildTool|Win32.Build.0 = BuiltWithUnrealBuildTool|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6B87F85D-8631-4F13-9537-50AFC5213E3F} = {DA9ED8AA-0779-4DCD-8973-4290916C58AD}
+	EndGlobalSection
+EndGlobal
